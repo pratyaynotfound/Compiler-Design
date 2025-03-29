@@ -1,0 +1,4 @@
+zah a0 b0 c0
+    :
+    input a0
+}

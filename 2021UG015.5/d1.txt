@@ -1,0 +1,12 @@
+// This is the first comment
+{
+    zah a0 b0 c0
+    flt x0 y0
+    :
+        input a0
+        x0 = 10.2e-2
+        input c0
+        c0 = 12*c0/(a0+5.6)
+        print c0
+// This is the second comment
+}
